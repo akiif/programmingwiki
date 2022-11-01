@@ -1,6 +1,6 @@
 {
   "name": "programmingwiki",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package which is used to fetch programming articles from a RESTful API.",
   "main": "src/index.js",
   "scripts": {
@@ -11,5 +11,9 @@
   "type": "module",
   "dependencies": {
     "node-fetch": "^3.2.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akiif/programmingwiki.git"
   }
 }
