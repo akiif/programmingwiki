@@ -71,4 +71,5 @@ Some of the tags available are:
 ## Related
 
 - API Endpoint: https://programmingwiki.herokuapp.com/  
-- [ProgrammingWiki-API](https://github.com/akiif/ProgrammingWiki-API) : how to use the api directly
+- [ProgrammingWiki-API](https://github.com/akiif/ProgrammingWiki-API) : how to use the api directly.
+- [npm](https://www.npmjs.com/package/programmingwiki)
